@@ -1,0 +1,31 @@
+.no-data {
+    margin: 20px;
+    text-align: center;
+}
+
+.search-contianer {
+    position: relative;
+}
+
+.search-input {
+    padding-right: 30px !important;
+}
+
+.search-icon {
+    right: 20px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.movie-image {
+    height: 250px;
+}
+
+.movie-title {
+    height: 50px;
+}
+
+.movie-button-text {
+    margin-left: 10px;
+}
